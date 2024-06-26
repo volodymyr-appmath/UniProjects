@@ -1,2 +1,2 @@
 # UniProjects
-Projects I've worked on in university during 2-nd and 3-rd years
+Projects I've worked on in university during 2nd and 3rd years
